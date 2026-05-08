@@ -1,5 +1,8 @@
 # Investment_Behaviour_Analysis
-Short-term Internship Real-time Project - Analyzing Investment behaviour data
+
+> Investment Behaviour Analysis Dashboard developed during my Power BI Developer Internship at Cognifyz Technologies using Power BI, Excel, DAX, and interactive business intelligence reporting.
+
+---
 
 # 📊 Investment Behaviour Analysis Dashboard – Power BI Internship Project
 
