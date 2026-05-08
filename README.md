@@ -224,21 +224,6 @@ Built a complete interactive dashboard integrating all insights generated during
 
 ---
 
-# 📷 Dashboard Preview
-
-> Add your dashboard screenshots inside the `Images` folder and link them here.
-
-Example:
-
-```md
-![Dashboard Preview]<img width="1919" height="1078" alt="Screenshot 2025-11-24 014758" src="https://github.com/user-attachments/assets/9795c26e-9b9b-483a-9a80-ee694316fcea" />
-
-```
-
-
-
----
-
 # 🎯 Skills Gained During Internship
 
 * Power BI Dashboard Development
